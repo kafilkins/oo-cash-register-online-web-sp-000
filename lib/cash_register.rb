@@ -19,7 +19,7 @@ class CashRegister
   end
   end
 
-  def item
+  def items
     array = [ ]
     array << add_item
   end
