@@ -20,9 +20,4 @@ class CashRegister
   end
   end
 
-  def items
-    array = []
-    array << @items
-  end
-
 end
