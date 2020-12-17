@@ -21,7 +21,7 @@ class CashRegister
 
   def items
     array = []
-    array << self.items
+    array << @items
   end
 
 end
