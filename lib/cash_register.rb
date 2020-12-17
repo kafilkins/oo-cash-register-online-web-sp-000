@@ -24,5 +24,4 @@ class CashRegister
     array << add_item
   end
 
-
 end
